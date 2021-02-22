@@ -1,0 +1,9 @@
+attendance.*
+log.*
+timeline.*
+
+bin/
+node_modules/
+
+.idea/
+.vscode/

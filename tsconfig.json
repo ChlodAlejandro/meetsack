@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "outDir": "./bin",
+        "allowJs": false,
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "esModuleInterop": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
